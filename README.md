@@ -20,6 +20,5 @@ dependencies:
 pip install numpy matplotlib tqdm scikit-learn pandas
 
 ### Run the Environment
-Before running any models, **please run `Env.py` first** to preprocess the dataset and initialize the environment:
-```bash
+# Before running any models, **please run `Env.py` first** to preprocess the dataset and initialize the environment:
 python Env.py
