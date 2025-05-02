@@ -13,4 +13,8 @@ This project will be using Taobao User Behavior Dataset E_commerce.csv. This dat
 4. CB.py: contextual bandits model with visualizations
 5. DQN.py: DQN models and visualizations
 
+## Start
+To get started, clone the repository and install the required dependencies.
+dependencies:
+pip install numpy matplotlib tqdm scikit-learn pandas
 
