@@ -16,5 +16,10 @@ This project will be using Taobao User Behavior Dataset E_commerce.csv. This dat
 ## Start
 To get started, clone the repository and install the required dependencies.
 dependencies:
+```bash
 pip install numpy matplotlib tqdm scikit-learn pandas
 
+### Run the Environment
+Before running any models, **please run `Env.py` first** to preprocess the dataset and initialize the environment:
+```bash
+python Env.py
